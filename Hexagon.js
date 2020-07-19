@@ -1,7 +1,7 @@
 class Hexagon extends BaseClass {
     constructor(x,y){
       super(x,y,50,50);
-      this.image = loadImage("HexagonStriker.png");  
+      this.image = loadImage("HexagonStriker.PNG");  
     }
   
     display() {
